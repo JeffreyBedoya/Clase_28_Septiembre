@@ -1,5 +1,5 @@
 # calse28sept
-Clase media técnica en desarrollo de software de l aIE López de Mesa
+Clase media técnica en desarrollo de software de la IE López de Mesa
 Scanning
 
 Integrantes del protyecto:
